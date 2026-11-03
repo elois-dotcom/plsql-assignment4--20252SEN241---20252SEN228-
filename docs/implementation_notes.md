@@ -1,6 +1,6 @@
 
 # Implementation Documentation
-## Oracle PL/SQL Banking Account Management System
+## Oracle PL/SQL Equity Banking Account Management System
 
 ## 1. Project Overview
 
