@@ -1,9 +1,9 @@
 # Bank Database: Records and Collections in Oracle PL/SQL
 
-**Course:** [Course name]
+**Course:** plsql
 **Assignment:** IV - Records and Collections in Oracle PL/SQL
-**Student:** [Your name] | **ID:** [Your ID]
-**Date:** [Submission date]
+**Student:** mutaboba elois & mulisa israel jakes | **ID:** 20252SEN241 | 20252SEN228
+**Date:** 3/11/2026
 
 ---
 
