@@ -1,4 +1,4 @@
-# Bank Database: Records and Collections in Oracle PL/SQL
+# Equity bank scenario: Records and Collections in Oracle PL/SQL
 
 **Course:** plsql
 **Assignment:** IV - Records and Collections in Oracle PL/SQL
